@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SISSSY | Welcome</title>
+    <title>Organizational Change Through Agile Methods | Welcome</title>
     <link rel="stylesheet"
       href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
     <link rel="stylesheet" href="https://s3.amazonaws.com/agilephd/styles/main.css">
@@ -35,7 +35,7 @@
     <div class="row">
       <div class="medium-6 columns medium-push-6">
         <img class="thumbnail pm_image"
-          src="https://s3.amazonaws.com/agilephd/project_management.jpg">
+          src="http://onthejob.45things.com/2017/11/if-you-do-any-project-management-you.html">
       </div>
       <div class="medium-6 columns medium-pull-6">
         <h2>Agile Project Management</h2>
@@ -161,7 +161,7 @@
       <ul class="menu">
 
         <li>
-          <a href="https://www.linkedin.com/in/jdavisphd/" class="" target="_blank">
+          <a href="https://www.linkedin.com/in/alexandra-bowers-16525615a/" class="" target="_blank">
             <img src="https://s3.amazonaws.com/agilephd/webicon-linkedin-m.png">
           </a>
         </li>
@@ -176,13 +176,13 @@
     <div class="reveal" id="contactModal" data-reveal>
       <h4>Contact information</h4>
       <ul class="no-bullet">
-        <li>Dr. James Davis, PhD, PMP, CSP, CSM</li>
+        <li>Alexandra Bowers</li>
         <li>
-          <a href="mailto:james@agilephd.com?Subject=AgilePhD" target="_top">
-            james@agilephd.com
+          <a href="mailto:abowe12@lsu.edu?Subject=AgilePhD" target="_top">
+            abowe12@lsu.edu
           </a>
         </li>
-        <li><a href="tel:+12258920230">+1.225.892.0230</a></li>
+        <li><a href="tel:+12252523522">+1.225.252.3522</a></li>
       </ul>
       <button class="close-button" data-close aria-label="Close modal" type="button">
         <span aria-hidden="true">&times;</span>
