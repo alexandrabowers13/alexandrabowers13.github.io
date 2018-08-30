@@ -35,7 +35,7 @@
     <div class="row">
       <div class="medium-6 columns medium-push-6">
         <img class="thumbnail pm_image"
-          src="http://onthejob.45things.com/2017/11/if-you-do-any-project-management-you.html">
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPGfC2Y5OmcBV7H6I-_o42NMNPIVO_hrdF69E_tllYtQeir9f">
       </div>
       <div class="medium-6 columns medium-pull-6">
         <h2>Agile Project Management</h2>
