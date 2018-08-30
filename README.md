@@ -28,7 +28,7 @@
 
     <div class="callout large scrum">
       <div class="row column text-center bottom">
-        <h1 class="scrum_h1 bottom">FLAMINGOS/h1>
+        <h1 class="scrum_h1 bottom">FLAMINGOS</h1>
       </div>
     </div>
 
