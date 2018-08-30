@@ -1,4 +1,1 @@
-body
-{
-background: #E0E0E0; 
-}
+<BODY TEXT="#092d07" LINK="#1FOOFF" VLINK= "#000000" ALINK="#000000" BGCOLOR="#ffffff">
